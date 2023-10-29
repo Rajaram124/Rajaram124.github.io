@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Website</title>
+    <title>Rajaram.co</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Welcome to Rajaram.co</h1>
     </header>
     <nav>
         <ul>
@@ -20,7 +20,7 @@
         <p>This is the about page content.</p>
     </main>
     <footer>
-        <p>&copy; 2023 My Website</p>
+        <p>&copy; 2023 Rajaram.co</p>
     </footer>
 </body>
 </html>
